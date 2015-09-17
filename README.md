@@ -16,4 +16,4 @@ This is some other stuff that really doesn't say anything of importance
 
 ## Yet more stuff
 
-And of course yet other stuff that's been added at the end
+And of course yet other stuff that's been added at the end of the README
