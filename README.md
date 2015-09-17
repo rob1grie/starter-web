@@ -6,6 +6,10 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+## Contribute
+
+Please fork this repository and submit Pull requests for review
+
 ## Deployment
 
 This is a simple website which can be deployed to a remote server, or even to a local file system
