@@ -7,6 +7,8 @@ Adding a line for rebasing example, then more changes from myfeature branch too
 ## Purpose
 
 Sample website with plenty of files for demos
+Another line that I'm adding
+And a third line that I've added
 
 ## Contribute
 
