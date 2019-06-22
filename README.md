@@ -25,4 +25,4 @@ This is some other stuff that really doesn't say anything of importance
 And of course yet other stuff that's been added at the end of the README
 
 ### Copyright
-2015 Git.Training
+2019 LGD-IT.us
